@@ -4,6 +4,7 @@
     <test verbose="2" preserve-order="true" name="C:\Users\User\Seniorlor">
 
         <classes>
+
             <class name="AddNewCategoryTest"/>
         </classes>
 
